@@ -1,6 +1,6 @@
 # SmartBrain API
 
-API for the SmartBrain app using Node.js, Express.js, PostgreSQL:
+API for SmartBrain app using Node.js, Express.js, PostgreSQL:
 
 1. Clone this repo
 2. Run `npm install`
